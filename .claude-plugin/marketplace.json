@@ -10,12 +10,17 @@
       "source": {
         "source": "git-subdir",
         "url": "limindex/white-security",
-        "path": "plugins/white-security"
+        "path": "plugins/white-security",
+        "ref": "v0.1.0"
       },
       "description": "Security checks for AI-assisted coding: safe code while you write, read-only review on request. 바이브 코딩 보안 점검.",
       "homepage": "https://github.com/limindex/white-security",
       "license": "CC-BY-SA-4.0 AND MIT",
-      "keywords": ["security", "security-review", "vibe-coding"]
+      "keywords": [
+        "security",
+        "security-review",
+        "vibe-coding"
+      ]
     }
   ]
 }
