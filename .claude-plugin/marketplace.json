@@ -11,8 +11,8 @@
         "source": "git-subdir",
         "url": "limindex/white-security",
         "path": "plugins/white-security",
-        "ref": "v0.1.0",
-        "sha": "2ff00b4300716beddba33a1834102e8313fe9838"
+        "ref": "v0.1.1",
+        "sha": "25a2495c79ea7b5dcc47f0ec5b260354d685f974"
       },
       "description": "Read-only security review for code your AI coding agent wrote, on request, typically before deploy. 바이브 코딩 보안 검토.",
       "homepage": "https://github.com/limindex/white-security",
