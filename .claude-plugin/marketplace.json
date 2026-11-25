@@ -11,9 +11,10 @@
         "source": "git-subdir",
         "url": "limindex/white-security",
         "path": "plugins/white-security",
-        "ref": "v0.1.0"
+        "ref": "v0.1.0",
+        "sha": "2ff00b4300716beddba33a1834102e8313fe9838"
       },
-      "description": "Security checks for AI-assisted coding: safe code while you write, read-only review on request. 바이브 코딩 보안 점검.",
+      "description": "Read-only security review for code your AI coding agent wrote, on request, typically before deploy. 바이브 코딩 보안 검토.",
       "homepage": "https://github.com/limindex/white-security",
       "license": "CC-BY-SA-4.0 AND MIT",
       "keywords": [
