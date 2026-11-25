@@ -11,8 +11,8 @@
         "source": "git-subdir",
         "url": "limindex/white-security",
         "path": "plugins/white-security",
-        "ref": "v0.1.1",
-        "sha": "25a2495c79ea7b5dcc47f0ec5b260354d685f974"
+        "ref": "v0.1.2",
+        "sha": "a7b696c73cafdce44a7abdb68ce453d46f7ad7d3"
       },
       "description": "Read-only security review for code your AI coding agent wrote, on request, typically before deploy. 바이브 코딩 보안 검토.",
       "homepage": "https://github.com/limindex/white-security",
@@ -20,7 +20,7 @@
       "keywords": [
         "security",
         "security-review",
-        "vibe-coding"
+        "ai-coding"
       ]
     }
   ]
