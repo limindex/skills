@@ -11,8 +11,8 @@
         "source": "git-subdir",
         "url": "limindex/white-security",
         "path": "plugins/white-security",
-        "ref": "v0.1.2",
-        "sha": "a7b696c73cafdce44a7abdb68ce453d46f7ad7d3"
+        "ref": "v0.1.3",
+        "sha": "4b48ec335e0e63eb3a65f36baa5f90f0b459c8f7"
       },
       "description": "AI 코딩 보안 점검 스킬. 배포 전 프로젝트 전체를 읽기 전용으로 검토하고, 발견 항목마다 행정안전부·주요정보통신기반시설·개인정보 보호 기준을 표시합니다. Read-only security review for code your AI coding agent wrote, before you deploy.",
       "homepage": "https://github.com/limindex/white-security",
